@@ -1,2 +1,8 @@
 # RCOS-Spring26
-Lab repo
+Name: Connor Mitchell
+Photo:
+ |    | | 
+ | |  | _
+ 
+Graduating year: 2028
+Project sub-area: math library (tensor operations)
